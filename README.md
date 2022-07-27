@@ -6,8 +6,8 @@ API de teste APACHE KAFTA
 - Spring Boot 2.7.2
 
 # API
-- Mensagem Assícrona [URL]/send/assync
-- Mensagem Síncrona  [URL]/send/sync
+- Mensagem Assícrona [URL]/send/assync POST
+- Mensagem Síncrona  [URL]/send/sync POST
 
 # JSON
 {
